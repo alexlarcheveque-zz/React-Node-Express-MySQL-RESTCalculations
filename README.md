@@ -7,7 +7,7 @@ As noted by the title of this project, we are using MySQL as the database in thi
 
 I am using MacOS for my working environment, but here are the links I used to download and install MySQL and MySQL Workbench.
 
-Click here to install: [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) [MySQL Workbench](https://www.mysql.com/products/workbench/)
+Click here to install: [MySQL Community Server](https://dev.mysql.com/downloads/mysql/), [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Installation - Node.js Server and React Development Environment
 
@@ -25,9 +25,7 @@ Before starting, we need to make sure you have Node.js installed.
 
 Click here if you have not installed it yet: [Node.js](https://nodejs.org/en/download/)
 
-In your terminal, open the Folder Express-Node-MySQL. 
-
-Make sure the packages Express, CORS, MySQL, and Nodemon are installed on your system using npm.
+In your terminal, open the Folder Express-Node-MySQL. Make sure the packages Express, CORS, MySQL, and Nodemon are installed on your system using npm.
 
 ```bash
 npm install --save-dev nodemon
@@ -41,7 +39,7 @@ After these packages are installed, start the node server
 nodemon index.js
 ```
 
-Your Node server should be running on port 3306, while your REST API calls can be made on localhost:4000
+Your Node server should be running on port 3306, while your REST API calls can be made on http://localhost:4000
 
 ### React-App Start
 
