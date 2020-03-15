@@ -95,4 +95,4 @@ Here we can see the updated MySQL table with the newly inputted calculations:
 
 ![Table Result](Example-DB.png)
 
-*Note: I decided to make one table, instead of seperate tables, with the columns "first_num", "second_num", "sum_result", "product_result", and "power_result" because this was the most clear for self-documentation. Each column has a purpose, and a first-time user can understand the logic-flow of the table.
+*Note: I decided to make one table, instead of seperate tables, with the columns "first_num", "second_num", "sum_result", "product_result", and "power_result" because this was the most clear for self-documentation. Each column has a purpose, and a first-time user can understand the logic-flow of the table.*
