@@ -33,19 +33,19 @@ CREATE TABLE `calculations` (
 
 ## Installation - Node.js Server and React Development Environment
 
-Clone the Github repo using.
+Clone the Github repo using:
 
 ```bash
 git clone https://github.com/alexlarcheveque/React-Node-Express-MySQL-RESTCalculations.git
 ```
 
-There are two folders in this project, Express-Node-MySQL and React-App. Follow the respective directions down below.
+Make sure you have Node.js installed, we need to import our packages and to open our react application and server.
+
+Click here to download Node.js: [Node.js](https://nodejs.org/en/download/)
+
+Once we have our Github repo cloned and Node.js installed, we can get the project up and running. In the Github repo, we use two folders in this project, Express-Node-MySQL and React-App, that will be running simultaneously. Follow the respective directions down below for each folder.
 
 ### Express-Node-MySQL Start
-
-Before starting, we need to make sure you have Node.js installed.
-
-Click here if you have not installed it yet: [Node.js](https://nodejs.org/en/download/)
 
 In your terminal, open the Folder Express-Node-MySQL. Make sure the packages Express, CORS, MySQL, and Nodemon are installed on your system using npm.
 
@@ -61,11 +61,11 @@ After these packages are installed, start the node server
 nodemon index.js
 ```
 
-Your Node server should be running on port 3306, while your REST API calls can be made on http://localhost:4000
+Your Node server should be running on port 3306, while your REST API calls can be made on http://localhost:4000.
 
 ### React-App Start
 
-In your terminal, open the Folder React-App.
+Create another terminal instance and open the folder React-App.
 
 Start the react development server by executing the following.
 
