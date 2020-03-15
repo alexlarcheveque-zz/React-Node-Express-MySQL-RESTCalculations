@@ -1,0 +1,15 @@
+h1 {
+  margin: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+form {
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+}
+
+button {
+  width: 100%;
+}
