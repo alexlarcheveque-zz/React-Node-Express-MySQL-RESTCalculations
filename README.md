@@ -87,11 +87,11 @@ Our form includes form validation. It will check for the following cases:
 ![Form Validation 1](Example-FormValidation.png)
 ![Form Validation 2](Example-FormValidationV2.png)
 
-After a user inputs proper numbers, and clicks "Calculate," the application makes the REST API calls and also shows the results of the calculations
+After a user inputs proper numbers, and clicks "Calculate," the application makes the REST API calls and also shows the results of the calculations:
 
 ![Form Result](Example-FrontEnd.png)
 
-Here we can see the updated MySQL table with the newly inputted calculations
+Here we can see the updated MySQL table with the newly inputted calculations:
 
 ![Table Result](Example-DB.png)
 
