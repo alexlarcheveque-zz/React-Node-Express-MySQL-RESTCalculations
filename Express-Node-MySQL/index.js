@@ -16,8 +16,6 @@ connection.connect(err => {
   if (err) return err;
 });
 
-console.log(connection);
-
 app.use(cors());
 
 app.get("/", (req, res) => {
