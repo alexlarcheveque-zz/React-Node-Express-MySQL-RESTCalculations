@@ -9,6 +9,12 @@ I am using MacOS for my working environment, but here are the links I used to do
 
 Click here to install: [MySQL Community Server](https://dev.mysql.com/downloads/mysql/), [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+## Connection - MySQL Setup
+
+To ensure that the connection between MySQL and Express works, we need to edit the index.js file
+
+You need to make sure that your host, user, password, and database configurations are updated to your system's setup... or you can create the exact same MySQL environment as mine. 
+
 ## Installation - Node.js Server and React Development Environment
 
 Clone the Github repo using.
