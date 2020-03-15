@@ -7,7 +7,7 @@ As noted by the title of this project, we are using MySQL as the database in thi
 
 I am using MacOS for my working environment, but here are the links I used to download and install MySQL and MySQL Workbench.
 
-Click here to install: [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) [MySQL Workbench](https://www.mysql.com/products/workbench/)
+Click here to install: [MySQL Community Server](https://dev.mysql.com/downloads/mysql/), [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Installation - Node.js Server and React Development Environment
 
