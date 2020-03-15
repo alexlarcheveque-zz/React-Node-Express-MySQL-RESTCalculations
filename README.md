@@ -17,6 +17,20 @@ You need to make sure that your host, user, password, and database configuration
 
 ![Image of MySQL Connection](MySQL-Connection.png)
 
+Additionally, if you would like to have the same database that I used (column names, datatypes, etc.) you can copy and paste this into your MySQL Workbench and Execute the query. 
+
+```bash
+CREATE TABLE `calculations` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `first_num` double DEFAULT NULL,
+  `second_num` double DEFAULT NULL,
+  `sum_result` double DEFAULT NULL,
+  `product_result` double DEFAULT NULL,
+  `power_result` double DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=59 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+```
+
 ## Installation - Node.js Server and React Development Environment
 
 Clone the Github repo using.
