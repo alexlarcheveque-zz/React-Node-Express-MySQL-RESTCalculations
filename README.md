@@ -13,7 +13,7 @@ Click here to install: [MySQL Community Server](https://dev.mysql.com/downloads/
 
 To ensure that the connection between MySQL and Express works, we need to edit the index.js file
 
-You need to make sure that your host, user, password, and database configurations are updated to your system's setup... or you can create the exact same MySQL environment as mine. 
+You need to make sure that your host, user, password, and database configurations are updated to your system's MySQL configuration OR you can create the exact same MySQL environment as mine. 
 
 ![Image of MySQL Connection](MySQL-Connection.png)
 
